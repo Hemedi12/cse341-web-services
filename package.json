@@ -1,0 +1,23 @@
+{
+  "name": "cse341-web-services",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemedi12/cse341-web-services.git"
+  },
+  "author": "Charles Hemedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemedi12/cse341-web-services/issues"
+  },
+  "homepage": "https://github.com/Hemedi12/cse341-web-services#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
